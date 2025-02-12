@@ -2,7 +2,7 @@
 //  GameViewController.swift
 //  Swifty Ninja
 //
-//  Created by Ibraheem k. Rawlinson on 12/6/24.
+
 //
 
 import UIKit
